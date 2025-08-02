@@ -1,0 +1,9 @@
+[
+    {"course":"Learn Linux", "progress": 100},
+    {"course":"Learn Python", "progress": 100},
+    {"course":"Learn Git", "progress": 100},
+    {"course":"Bookbot Project", "progress": 100},
+    {"course":"OOP in Python", "progress":100},
+    {"course":"Asteroid Project","progress":100},
+    {"course":"Functional Programming","progress":62}
+]
